@@ -7,6 +7,7 @@ h1,h2,h3,h4{font-family:var(--font-heading);font-weight:var(--weight-heading);le
 h1{font-size:var(--text-xl)}h2{font-size:var(--text-lg)}h3{font-size:var(--text-md)}
 a{color:var(--color-link)}
 :focus-visible{outline:3px solid var(--color-focus);outline-offset:2px}
+.site-header :focus-visible,.site-footer :focus-visible{outline-color:var(--color-paper)}
 
 .skip{position:absolute;left:var(--space-2);top:-4rem;z-index:100;padding:var(--space-2) var(--space-4);background:var(--color-iron-800);color:var(--color-paper);border-radius:var(--radius-md);text-decoration:none}
 .skip:focus{top:var(--space-2)}
