@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="Fence posts strung with barbed wire across a field">
+  <title>Fence posts strung with barbed wire across a field</title>
+  <rect width="800" height="300" fill="#e8eaed"/>
+  <rect y="210" width="800" height="90" fill="#cfd5c9"/>
+  <path d="M0 210 L800 210" stroke="#9aa3ad" stroke-width="2"/>
+  <g fill="#243241">
+    <rect x="90" y="70" width="14" height="190"/>
+    <rect x="290" y="70" width="14" height="190"/>
+    <rect x="490" y="70" width="14" height="190"/>
+    <rect x="690" y="70" width="14" height="190"/>
+  </g>
+  <g fill="none" stroke="#4a5563" stroke-width="3">
+    <path d="M97 100 Q197 118 297 100 T497 100 T697 100"/>
+    <path d="M97 150 Q197 168 297 150 T497 150 T697 150"/>
+    <path d="M97 200 Q197 218 297 200 T497 200 T697 200"/>
+  </g>
+  <g stroke="#a64b22" stroke-width="3" stroke-linecap="round">
+    <path d="M150 108 l-8 -10 M150 108 l8 10 M150 108 l-8 10 M150 108 l8 -10"/>
+    <path d="M250 108 l-8 -10 M250 108 l8 10 M250 108 l-8 10 M250 108 l8 -10"/>
+    <path d="M350 108 l-8 -10 M350 108 l8 10 M350 108 l-8 10 M350 108 l8 -10"/>
+    <path d="M450 108 l-8 -10 M450 108 l8 10 M450 108 l-8 10 M450 108 l8 -10"/>
+    <path d="M550 108 l-8 -10 M550 108 l8 10 M550 108 l-8 10 M550 108 l8 -10"/>
+    <path d="M650 108 l-8 -10 M650 108 l8 10 M650 108 l-8 10 M650 108 l8 -10"/>
+    <path d="M200 158 l-8 -10 M200 158 l8 10 M200 158 l-8 10 M200 158 l8 -10"/>
+    <path d="M400 158 l-8 -10 M400 158 l8 10 M400 158 l-8 10 M400 158 l8 -10"/>
+    <path d="M600 158 l-8 -10 M600 158 l8 10 M600 158 l-8 10 M600 158 l8 -10"/>
+  </g>
+</svg>

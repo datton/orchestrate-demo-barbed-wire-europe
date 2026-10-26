@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320" role="img" aria-label="Stylised, not-to-scale map shape of Europe">
+  <title>Stylised, not-to-scale map shape of Europe</title>
+  <path d="M60 250 L70 205 L55 175 L85 150 L80 115 L120 95 L135 60 L175 45 L215 55 L240 35 L285 50 L300 85 L335 95 L345 135 L320 160 L335 195 L300 225 L260 215 L235 250 L200 270 L170 255 L140 280 L100 275 Z"
+        fill="#d5d9de" stroke="#243241" stroke-width="3" stroke-linejoin="round"/>
+  <g stroke="#a64b22" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 8">
+    <path d="M120 95 L200 140 L260 120 L320 160"/>
+    <path d="M100 275 L170 200 L235 250"/>
+  </g>
+</svg>

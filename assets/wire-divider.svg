@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" width="600" height="40" role="img" aria-label="Strand of barbed wire">
+  <title>Strand of barbed wire</title>
+  <g fill="none" stroke="#4a5563" stroke-width="3" stroke-linecap="round">
+    <path d="M0 20 C25 6 50 34 75 20 S125 6 150 20 S200 34 225 20 S275 6 300 20 S350 34 375 20 S425 6 450 20 S500 34 525 20 S575 6 600 20"/>
+    <path d="M0 20 C25 34 50 6 75 20 S125 34 150 20 S200 6 225 20 S275 34 300 20 S350 6 375 20 S425 34 450 20 S500 6 525 20 S575 34 600 20"/>
+  </g>
+  <g stroke="#a64b22" stroke-width="2.5" stroke-linecap="round">
+    <path d="M75 20 l-9 -13 M75 20 l9 13 M75 20 l-9 13 M75 20 l9 -13"/>
+    <path d="M225 20 l-9 -13 M225 20 l9 13 M225 20 l-9 13 M225 20 l9 -13"/>
+    <path d="M375 20 l-9 -13 M375 20 l9 13 M375 20 l-9 13 M375 20 l9 -13"/>
+    <path d="M525 20 l-9 -13 M525 20 l9 13 M525 20 l-9 13 M525 20 l9 -13"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Spool of wire for manufacturing">
+  <title>Manufacturing</title>
+  <rect x="10" y="10" width="44" height="8" rx="2" fill="#243241"/>
+  <rect x="10" y="46" width="44" height="8" rx="2" fill="#243241"/>
+  <rect x="20" y="18" width="24" height="28" fill="#9aa3ad"/>
+  <path d="M20 24 H44 M20 30 H44 M20 36 H44 M20 42 H44" stroke="#4a5563" stroke-width="3"/>
+</svg>
