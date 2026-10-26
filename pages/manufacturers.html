@@ -14,7 +14,31 @@
 <nav aria-label="Main"><a href="../index.html">Home</a><a href="../pages/manufacturers.html">Manufacturers</a><a href="../pages/about.html">About barbed wire</a><a href="../pages/how-to-choose.html">How to choose</a><a href="../pages/sources.html">Sources</a></nav></header>
 <main id="main">
 <h1>Manufacturers</h1>
-<!-- content: build.fullstack -->
+<img src="../assets/europe-outline.svg" alt="Outline map of Europe" style="max-width:12rem;height:auto">
+<p>Use the filter to show manufacturers by country, or search by name.</p>
+<form id="filter-form" class="filter" role="search" aria-label="Filter manufacturers" onsubmit="return false">
+<label for="country-filter">Country</label>
+<select id="country-filter"><option value="">All countries</option></select>
+<label for="name-search">Search by name</label>
+<input id="name-search" type="search" autocomplete="off">
+</form>
+<p id="filter-status" role="status" aria-live="polite"></p>
+<ul id="maker-list" class="maker-list">
+<li class="maker" data-country="Belgium" data-name="Bekaert">
+<h2>Bekaert</h2>
+<p><strong>Country:</strong> Belgium (headquartered in Zwevegem)</p>
+<p>A steel wire transformation and coatings company. Its fencing range includes barbed wire, and it developed the Bezinal zinc-aluminium coating used to protect steel wire from corrosion.</p>
+<p><a href="https://www.bekaert.com">bekaert.com</a></p>
+</li>
+<li class="maker" data-country="Belgium" data-name="Betafence">
+<h2>Betafence</h2>
+<p><strong>Country:</strong> Belgium (headquartered in Zwevegem)</p>
+<p>A perimeter security and fencing company with Belgian roots in the Bekaert group, now independent. It supplies wire-based security fencing systems.</p>
+<p><a href="https://www.betafence.com">betafence.com</a></p>
+</li>
+</ul>
+<p id="no-results" hidden>No manufacturers match. Try another country or clear the search.</p>
+<p class="note">This list is intentionally limited to details we are certain of. See <a href="sources.html">Sources</a>.</p>
 </main>
 <footer class="site-footer"><p>A directory of European barbed wire manufacturers.</p></footer>
 <script src="../js/nav.js"></script>
